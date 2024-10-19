@@ -8,17 +8,49 @@
 #newtab = true
 
 [[social]]
+identifier = "bluesky"
+name = "BlueSky"
+url = "https://bsky.app/profile/isatis.bsky.social"
+
+[social.params]
+icon = "brand-bluesky"
+
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/hackerfoxhideout"
+
+[social.params]
+icon = "brand-telegram"
+
+[[social]]
+identifier = "discord"
+name = "Discord"
+url = "https://discord.gg/Z8PX597QgY"
+
+[social.params]
+icon = "brand-discord"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/ladyisatis"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://meow.social/@isatis"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-mastodon"
+
+[[social]]
+identifier = "twitch"
+name = "Twitch"
+url = "https://twitch.tv/isatis_"
+
+[social.params]
+icon = "brand-twitch"
