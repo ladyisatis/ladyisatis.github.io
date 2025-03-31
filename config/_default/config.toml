@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://isatis.blue"
+baseurl = "https://www.isatis.blue"
 languageCode = "en-us"
 title = "Ninefold Notions"
 
